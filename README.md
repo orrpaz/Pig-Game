@@ -20,3 +20,6 @@ The first player to score 100 or more points wins.
 
 ## Diagram
 ![alt text](https://github.com/orrpaz/Pig-Game/blob/main/pig-game-flowchart.png)
+
+## Screenshot
+![alt text](https://github.com/orrpaz/Pig-Game/blob/main/screenshot-pig-game.png)
